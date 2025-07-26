@@ -66,9 +66,12 @@ If you want to train your own model using `hand_signs2.csv`:
 - Use any classifier (e.g., RandomForest, Optuna-optimized models)
 
 ---
+![istockphoto-1306688274-612x612](https://github.com/user-attachments/assets/27018e61-3c64-435d-870d-9e7fdeac8175)
+
+
 
 ## ✅ Example Output
-![hand sign example](https://user-images.githubusercontent.com/yourusername/sample_output.png)
+https://www.linkedin.com/posts/shivamkajale_just-completed-a-new-machine-learning-project-activity-7354790103266791424-0KfB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADRLvm8B1FBRAYKjOreoiENIoEZZ1tJtqY0
 
 ---
 
